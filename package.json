@@ -12,6 +12,7 @@
     "all": "concurrently \"npm run server\" \"npm run dev\""
   },
   "dependencies": {
+    "concurrently": "^8.2.2",
     "framer-motion": "^4.1.17",
     "json-server": "^0.17.4",
     "react": "^18.2.0",
